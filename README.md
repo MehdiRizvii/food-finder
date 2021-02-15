@@ -1,1 +1,1 @@
-My friend adi wanted me to update the readme so I did... :feelsbadman:
+Front end development using React to sort through google/yelp API in a meaningful way for users to sort through.
