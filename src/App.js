@@ -5,9 +5,10 @@ import Sort from './Components/Sort'
 function App() {
   return (
 <div>
-<Table />
+  <Header />
+  <Table />
 <Sort />
-<Header />
+
 </div>
 
   )
