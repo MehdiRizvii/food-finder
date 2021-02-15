@@ -4,11 +4,9 @@ import Header from './Components/Header'
 import Sort from './Components/Sort'
 function App() {
   return (
-<div>
-  <Header />
+<div className="container">
+  <Sort />
   <Table />
-<Sort />
-
 </div>
 
   )

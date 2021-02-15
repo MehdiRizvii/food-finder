@@ -4,7 +4,7 @@ function Table(){
     return(
         <div>
 
-            <h3>Hello World!!</h3>
+            <h3 className="table">This is where the table/li goes</h3>
 
         </div>
     )

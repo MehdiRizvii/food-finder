@@ -1,3 +1,30 @@
 h1 {
     background-color: red;
+ text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.sorting {
+    float: left;
+    background-color: teal;
+    width: 35%;
+    height: 1500px;
+    margin-top: 0%;
+    margin-left: 500px;
+
+
+}
+.table {
+    background-color: yellow;
+    height: 600px;
+    margin: 0;
+    width: 1800px;
+    margin-left: 10%;
+
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
