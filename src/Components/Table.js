@@ -17,11 +17,11 @@ function Table(props){
     </tr>
 
     <tr>
-        <td> <img src={props.table.imgUrl}/> </td>
-        <td><h3>{props.table.name}</h3>  </td>
-        <td><p>{props.table.review} </p></td>
-        <td><p>{props.table.distance}</p></td>
-        <td><p>{props.table.price}</p></td>
+        <td> <img src={props.tables.imgUrl}  alt={"restaurant picture"}/> </td>
+        <td><h3>{props.tables.name}</h3>  </td>
+        <td><p>{props.tables.review} </p></td>
+        <td><p>{props.tables.distance}</p></td>
+        <td><p>{props.tables.price}</p></td>
     </tr>
 
 
