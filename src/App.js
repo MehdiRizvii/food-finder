@@ -6,7 +6,7 @@ function App() {
   return (
 <div className="container">
   <Sort />
-  <Table />
+  <Table tables={{imgUrl:"",name:"", review:"", distance:"",price:""}}/>
 </div>
 
   )
